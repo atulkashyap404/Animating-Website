@@ -9,7 +9,6 @@ Welcome to the "Animation Website with HTML, CSS, and JavaScript" repository! Th
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -32,10 +31,10 @@ To get started with this project on your local machine, follow these steps:
 cd animation-website
 Open the index.html file in your web browser to view the website locally.
 
-Usage
+## Usage
 Feel free to use this project as a starting point for your own animation experiments or showcase. Customize the animations and interactive elements to suit your needs. If you come up with cool new animations, don't hesitate to share them with the community!
 
-Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
 Fork the repository and create your branch from the main.
