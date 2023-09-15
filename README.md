@@ -27,7 +27,7 @@ To get started with this project on your local machine, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/animation-website.git
+   git clone https://github.com/atulkashyap404/Animating-Website.git
 cd animation-website
 Open the index.html file in your web browser to view the website locally.
 
