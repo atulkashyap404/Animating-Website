@@ -37,12 +37,12 @@ Feel free to use this project as a starting point for your own animation experim
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
-Fork the repository and create your branch from the main.
+1. Fork the repository and create your branch from the main.
 
-Make your changes, whether they are bug fixes, enhancements, or new animations.
+2. Make your changes, whether they are bug fixes, enhancements, or new animations.
 
-Test your changes to ensure they work as expected.
+3. Test your changes to ensure they work as expected.
 
-Create a pull request with a clear description of your changes and their purpose.
+4. Create a pull request with a clear description of your changes and their purpose.
 
-Wait for feedback or approval, and then your changes will be merged.
+5. Wait for feedback or approval, and then your changes will be merged.
