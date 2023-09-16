@@ -275,3 +275,130 @@ video{
     width: 10%;
     object-fit: cover;
 }
+
+#page3{
+    height: 100vh;
+    width: 100%;
+    background-color:#000;
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+
+}
+
+#page3>p{
+    font-size: 15px;
+    font-weight: 700;
+    width: 45%;
+    text-align: center;
+    line-height: 25px;
+}
+
+#page3 img{
+    position: absolute;
+    height: 60px;
+}
+
+#page3 #colon1{
+    left: 15%;
+    top: 25%;
+}
+
+#page3 #colon2{
+    bottom: 25%;
+    right: 15%;
+}
+
+
+#page4{
+    height: 30vh;
+    width: 100%; 
+    /* background-color:red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+    position: relative;
+}
+
+.elem{
+    height: 70%;
+    width: 26%;
+    overflow: hidden;
+    border-radius: 20px;
+    position: relative;
+}
+
+.elem h2{
+    height: 100%;
+    width: 100%;
+    background-color: #95C11E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: 900;
+    color: #000;
+    position: absolute;
+    z-index: 10;
+    transition: all ease 0.5s;
+}
+.elem img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    scale: 1.1;
+    transition: all ease 0.5s;
+}
+
+.elem:hover h2{
+    color: #fff;
+    background-color: transparent;
+}
+
+.elem:hover img{
+    scale:1;
+}
+
+#page4 h1{
+    font-size: 65px;
+    /* font-family: gilroy; */
+    position: absolute;
+    top: -15%;
+    font-weight: 900;
+    color: #000;
+    -webkit-text-stroke: 2px white;
+
+}
+
+#footer{
+    height: 40vh;
+    width: 100%;
+    background: linear-gradient(to left bottom,#119F3A,#ACE022);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 150px;
+    padding: 0 100px;
+}
+
+#footer img{
+    height: 75px;
+}
+
+.menu h4{
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 30px;
+    color:#000
+    
+}
+#add h6{
+    color: #000;
+}
+#add h5{
+    line-height: 25px;
+    color: #000;
+    font-weight: 900;
+}
